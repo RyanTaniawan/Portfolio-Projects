@@ -1,2 +1,0 @@
-# If you are accessing from https://github.com/RyanTaniawan/Portfolio-Projects please kindly go to my new portfolio page at https://ryantaniawan.github.io/.
-# Thank You!
